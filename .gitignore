@@ -1,0 +1,21 @@
+node_modules
+
+# Output
+/web/.output
+/web/.vercel
+/web/.svelte-kit
+/web/build
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+/web/.env
+/web/.env.*
+/web/!.env.example
+/web/!.env.test
+
+# Vite
+/web/vite.config.js.timestamp-*
+/web/vite.config.ts.timestamp-*
