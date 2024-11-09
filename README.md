@@ -38,9 +38,9 @@ are sufficient enough.
 **Toggling main frame visibility**
 
 You can exit the UI frame using the `ESC` key, if you need to forcefully
-hide it you can use `visibility = false`, visibility now being a state.
+hide it you can use `store.visibility = false`, visibility now being a state.
 ```svelte
-<button on:click={() => visibility.set(false)}>
+<button on:click={() => store.visibility = false}>
   Exit
 </button>
 ```
