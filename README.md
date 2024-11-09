@@ -153,7 +153,3 @@ You can do this by running the following:
 ```sh
 pnpm build
 ```
-
-## Additional Notes
-
-Need further support? Join our [Discord](https://discord.com/invite/HYwBjTbAY5)!
